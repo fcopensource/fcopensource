@@ -66,6 +66,20 @@ I'm a developer focused on building useful, production-minded applications acros
 
 </div>
 
+## Contribution timeline
+
+GitHub contribution history, verified on **15 August 2026**:
+
+| Year | Contributions |
+| ---: | ---: |
+| 2023 | 9 |
+| 2024 | 503 |
+| 2025 | 58 |
+| 2026 (to date) | 90 |
+| **Total** | **660** |
+
+> GitHub's own contribution calendar is the source of truth. The cards below are useful summaries, but third-party stat services can cache data and do not provide a reliable multi-year timeline.
+
 ## GitHub activity
 
 <div align="center">
