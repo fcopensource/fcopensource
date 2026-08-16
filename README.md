@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vikram Kumar 👋
+# Hi, I'm Vikram Singh 👋
 
 ### Full-stack developer building practical, AI-powered web experiences
 
