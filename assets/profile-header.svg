@@ -1,44 +1,50 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#070B14"/>
-      <stop offset="0.55" stop-color="#0B1220"/>
-      <stop offset="1" stop-color="#111827"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090B0E"/>
+      <stop offset=".58" stop-color="#0B0F13"/>
+      <stop offset="1" stop-color="#10161B"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(956 64) rotate(143) scale(460 280)">
-      <stop stop-color="#4F6BFF" stop-opacity=".38"/>
-      <stop offset=".55" stop-color="#4F6BFF" stop-opacity=".08"/>
-      <stop offset="1" stop-color="#4F6BFF" stop-opacity="0"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 78) rotate(155) scale(500 280)">
+      <stop stop-color="#00D56A" stop-opacity=".22"/>
+      <stop offset=".5" stop-color="#00D56A" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#00D56A" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="accent" x1="84" y1="0" x2="316" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7C9BFF"/>
-      <stop offset="1" stop-color="#506BFF"/>
-    </linearGradient>
-    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
-      <path d="M 38 0 L 0 0 0 38" fill="none" stroke="#FFFFFF" stroke-opacity=".035" stroke-width="1"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity=".035"/>
     </pattern>
+    <linearGradient id="green" x1="82" y1="0" x2="380" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B0FFD2"/>
+      <stop offset=".62" stop-color="#00D56A"/>
+      <stop offset="1" stop-color="#00B85B"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="20" fill="url(#glow)"/>
-  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
 
-  <rect x="82" y="64" width="46" height="46" rx="12" fill="#4F6BFF"/>
-  <text x="105" y="95" fill="white" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" text-anchor="middle">VS</text>
+  <rect x="58" y="42" width="1084" height="236" rx="14" stroke="#25282E"/>
+  <path d="M58 92H1142" stroke="#25282E"/>
+  <path d="M900 42V278" stroke="#25282E"/>
 
-  <text x="82" y="156" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="760" letter-spacing="-1.8">Vikram Singh</text>
-  <text x="84" y="198" fill="#96A3B7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" letter-spacing=".5">SOFTWARE ENGINEER  ·  AI SYSTEMS  ·  DEVELOPER TOOLS</text>
+  <rect x="82" y="59" width="8" height="8" rx="4" fill="#00D56A"/>
+  <text x="104" y="67" fill="#8F9AA5" font-family="SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="1.6">FCOPENSOURCE / PROFILE</text>
 
-  <rect x="84" y="226" width="232" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="82" y="154" fill="#F2F6F3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="760" letter-spacing="-2.2">Vikram Singh</text>
+  <text x="84" y="198" fill="#A2A6AE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" letter-spacing=".8">SOFTWARE ENGINEER  ·  AI SYSTEMS  ·  DEVELOPER TOOLS</text>
 
-  <g opacity=".86">
-    <circle cx="1002" cy="118" r="74" stroke="#5E77E8" stroke-opacity=".35"/>
-    <circle cx="1002" cy="118" r="48" stroke="#5E77E8" stroke-opacity=".32"/>
-    <circle cx="1002" cy="118" r="6" fill="#7E98FF"/>
-    <path d="M932 184L1002 118L1081 57" stroke="#6F87F4" stroke-opacity=".55"/>
-    <circle cx="932" cy="184" r="4" fill="#6F87F4"/>
-    <circle cx="1081" cy="57" r="4" fill="#6F87F4"/>
-  </g>
+  <rect x="84" y="225" width="310" height="3" rx="1.5" fill="url(#green)"/>
+  <text x="84" y="254" fill="#6F7B87" font-family="SFMono-Regular,Consolas,monospace" font-size="11">build → ship → learn → repeat</text>
 
-  <text x="1120" y="252" fill="#536176" font-family="SFMono-Regular,Consolas,monospace" font-size="12" text-anchor="end">fcopensource / build → ship → learn</text>
+  <text x="930" y="76" fill="#00D56A" font-family="SFMono-Regular,Consolas,monospace" font-size="10" letter-spacing="1.4">COMPANY / COMMUNITY</text>
+  <text x="930" y="118" fill="#F2F6F3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="730">FlightCoders</text>
+  <text x="930" y="145" fill="#98A39E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">THE GLOBAL BUILDER NETWORK</text>
+
+  <circle cx="1019" cy="211" r="49" stroke="#00D56A" stroke-opacity=".35"/>
+  <circle cx="1019" cy="211" r="29" stroke="#00D56A" stroke-opacity=".25"/>
+  <circle cx="1019" cy="211" r="5" fill="#00D56A"/>
+  <path d="M970 245L1019 211L1091 172" stroke="#00D56A" stroke-opacity=".45"/>
+  <circle cx="970" cy="245" r="3" fill="#00D56A"/>
+  <circle cx="1091" cy="172" r="3" fill="#00D56A"/>
 </svg>
