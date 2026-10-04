@@ -1,174 +1,126 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Vikram Singh — Software Engineer, AI Systems, Developer Tools and FlightCoders" width="100%" />
+<a href="https://flightcoders.com"><img src="./assets/flightcoders-banner.png" alt="FlightCoders — Build. Learn. Collaborate. Take flight." width="100%" /></a>
 
-<br />
+# Vikram Singh
 
-[![FlightCoders](https://img.shields.io/badge/FlightCoders-Global_Builder_Network-00D56A?style=flat-square&labelColor=090B0E)](https://flightcoders.com)
-[![Veyra](https://img.shields.io/badge/Veyra-AI_Code_Editor-00D56A?style=flat-square&labelColor=090B0E)](https://veyracode.com)
-[![CareerFit](https://img.shields.io/badge/CareerFit-AI_Career_Intelligence-00D56A?style=flat-square&labelColor=090B0E)](https://carrerfit.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A2A6AE?style=flat-square&logo=linkedin&logoColor=white&labelColor=090B0E)](https://www.linkedin.com/in/vikramsde)
-[![Email](https://img.shields.io/badge/Email-Contact-A2A6AE?style=flat-square&logo=gmail&logoColor=white&labelColor=090B0E)](mailto:kumarv38078@gmail.com)
+**Software engineer · AI systems · Developer tools**
+
+Building useful software and a community of people who love making it.
+
+[![Explore FlightCoders](https://img.shields.io/badge/EXPLORE-FLIGHTCODERS-24EE79?style=for-the-badge&labelColor=08110C)](https://flightcoders.com)
+[![Projects](https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-24EE79?style=for-the-badge&labelColor=08110C)](https://github.com/fcopensource?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LET'S-CONNECT-D8E6DC?style=for-the-badge&labelColor=08110C)](https://www.linkedin.com/in/vikramsde)
+
+**[Community](https://flightcoders.com/community) · [Veyra Editor](https://veyracode.com) · [CareerFit](https://carrerfit.com) · [Email me](mailto:kumarv38078@gmail.com)**
 
 </div>
 
-## `> whoami`
+---
 
-I'm **Vikram Singh**, a software engineer building at the intersection of **AI systems, developer tools, full-stack products, and enterprise software**.
+## A little about the builder
 
-I prefer projects with a real product surface and a serious technical core — local-first desktop software, AI-assisted workflows, developer infrastructure, career intelligence, backend systems, applied ML, and scalable web applications.
+I'm **Vikram**, working across AI-assisted workflows, local-first developer tools, full-stack applications, and enterprise software. I enjoy taking a problem from an early idea through the interface, backend, and details that make it useful.
+
+My current focus is **FlightCoders**, **Veyra Editor**, and **CareerFit**: helping developers connect, build, and discover opportunities.
 
 ```text
-current_direction/
-├── ai-native developer tools
-├── local-first desktop software
-├── intelligent web products
-├── applied machine learning
-├── backend + data systems
-└── developer communities
+THE FLIGHT PLAN
+│
+├── Build tools that make developers more capable.
+├── Turn AI experiments into useful product workflows.
+├── Share the work, the lessons, and the questions.
+└── Bring curious people together to build what comes next.
 ```
 
----
-
-## My company & community — FlightCoders
-
-<a href="https://flightcoders.com">
-  <img src="./assets/flightcoders-community.svg" alt="FlightCoders — The Global Builder Network" width="100%" />
-</a>
-
-**[FlightCoders](https://flightcoders.com)** is my developer company and global builder community — a place for ambitious developers to discover emerging technology, join hackathons, publish projects, build open profiles, and meet people who want to create.
-
-The idea is simple:
-
-> **Big ideas. Brilliant people. Built together.**
-
-FlightCoders is being shaped around:
-
-- **Hackathons & build challenges** — projects over titles
-- **Emerging technology** — AI agents, Rust, local-first, edge AI, WebGPU, privacy tech
-- **Builder profiles** — show what you build, not only where you worked
-- **Project discovery** — useful software, experiments, and open-source work
-- **Global collaboration** — find strong builders across disciplines and geographies
-
-<div align="center">
-
-[**Visit FlightCoders →**](https://flightcoders.com) · [**GitHub Repository →**](https://github.com/fcopensource/flightcoders)
-
-</div>
-
----
-
-## What I'm building
+## Built here. Open to exploration.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Veyra Editor](https://github.com/fcopensource/veyraeditor)
+### 01 / FlightCoders
+**A home for ambitious developers.**
 
-**Local-first, AI-native code editor**
+A developer community taking shape around project sharing, questions, coding challenges, and finding collaborators across borders.
 
-A desktop coding environment built around native project access, Monaco editing, Git, a real terminal, installable themes/snippets, and multi-provider AI workflows with reviewed edits.
+`Next.js` `TypeScript` `MySQL`
 
-**Core:** Tauri · Rust · React · TypeScript · Monaco
-
-[Repository →](https://github.com/fcopensource/veyraeditor) · [veyracode.com →](https://veyracode.com)
+[Explore the community ↗](https://flightcoders.com/community) · [View source ↗](https://github.com/fcopensource/flightcoders)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 [CareerFit](https://github.com/fcopensource/carrerfitnew)
+### 02 / Veyra Editor
+**Developer tools, close to your code.**
 
-**AI career intelligence platform**
+A local-first, AI-native editor with native project access, Monaco editing, Git, a real terminal, and AI-assisted coding workflows.
 
-A production-oriented platform connecting live jobs, resume intelligence, ATS analysis, evidence-based matching, interview practice, skill-gap discovery, and application tracking.
+`Tauri` `Rust` `React` `Monaco`
 
-**Core:** Next.js · TypeScript · Node.js · Express · AI
+[Explore Veyra ↗](https://veyracode.com) · [View source ↗](https://github.com/fcopensource/veyraeditor)
 
-[Repository →](https://github.com/fcopensource/carrerfitnew) · [carrerfit.com →](https://carrerfit.com)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / CareerFit
+**Make the next career step more informed.**
+
+AI career intelligence spanning job discovery, resume analysis, matching, interview practice, and application tracking.
+
+`Next.js` `TypeScript` `Express` `AI`
+
+[Explore CareerFit ↗](https://carrerfit.com) · [View source ↗](https://github.com/fcopensource/carrerfitnew)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / Research & experiments
+**Room for the next question.**
+
+Research workflows, anomaly detection, and data applications. A place to explore ideas and learn by implementing them.
+
+[AI research workflows ↗](https://github.com/fcopensource/intellithesis)<br />
+[Outlier analysis ↗](https://github.com/fcopensource/High-Contrast-Subspaces-for-Density-Based-Outlier-Ranking)<br />
+[CryptoTrack ↗](https://github.com/fcopensource/CryptoTrack)
 
 </td>
 </tr>
 </table>
 
----
+## The engineering toolkit
 
-## Selected engineering work
+| Area | Tools I work with |
+| :--- | :--- |
+| Interfaces | React, Next.js, TypeScript, JavaScript, Monaco |
+| Backend & APIs | Node.js, Express, Python, Django, FastAPI |
+| Desktop & systems | Rust, Tauri, C++, Java |
+| Data & infrastructure | PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS |
+| Enterprise | Salesforce, Apex, Lightning Web Components |
+| Applied ML | pandas, NumPy, scikit-learn |
 
-| Project | Engineering focus | Stack |
-| --- | --- | --- |
-| **[FlightCoders](https://github.com/fcopensource/flightcoders)** | Global developer community, hackathons, builder network | Next.js, TypeScript, Node.js |
-| **[Veyra Editor](https://github.com/fcopensource/veyraeditor)** | Local-first AI editor and desktop developer tooling | Tauri, Rust, React, Monaco |
-| **[CareerFit](https://github.com/fcopensource/carrerfitnew)** | AI career intelligence, jobs, resumes, interviews | Next.js, TypeScript, Node.js |
-| **[IntelliThesis](https://github.com/fcopensource/intellithesis)** | AI-assisted research and thesis workflows | Next.js, Express, FastAPI, MongoDB |
-| **[High Contrast Subspaces](https://github.com/fcopensource/High-Contrast-Subspaces-for-Density-Based-Outlier-Ranking)** | Density-based anomaly detection and outlier analysis | Python, pandas, NumPy, scikit-learn |
-| **[CryptoTrack](https://github.com/fcopensource/CryptoTrack)** | Realtime/historical data pipelines and dashboards | React, Node.js, PostgreSQL, EC2 |
+## Build with me
 
----
+**Have an idea, a useful bug report, or a different perspective?** Explore a repository and open an issue with the problem, context, and what you have tried. For a larger contribution, start with an issue so we can agree on the direction before implementation.
 
-## Engineering stack
+I'm interested in conversations about developer experience, practical AI, local-first software, and tools that help people do better work.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,rust,react,nextjs,nodejs,express,django,fastapi,tauri,postgres,mysql,mongodb,redis,aws,docker,git&perline=10" alt="Vikram Singh engineering stack" />
-
-<br /><br />
-
-![Salesforce](https://img.shields.io/badge/Salesforce-Enterprise_Development-00D56A?style=flat-square&logo=salesforce&logoColor=white&labelColor=090B0E)
-![Apex](https://img.shields.io/badge/Apex-Backend-00D56A?style=flat-square&labelColor=090B0E)
-![LWC](https://img.shields.io/badge/LWC-Frontend-00D56A?style=flat-square&labelColor=090B0E)
-![Monaco](https://img.shields.io/badge/Monaco-Editor-00D56A?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=090B0E)
-![Tauri](https://img.shields.io/badge/Tauri-Desktop-00D56A?style=flat-square&logo=tauri&logoColor=white&labelColor=090B0E)
-
-</div>
-
----
-
-## How I build
-
-```text
-understand the real problem
-        ↓
-design the smallest useful system
-        ↓
-build the core workflow
-        ↓
-test the important assumptions
-        ↓
-ship something real
-        ↓
-learn → improve → repeat
-```
-
-I care about **product usefulness, clean architecture, developer experience, performance, and finishing the build**.
-
----
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fcopensource&show_icons=true&theme=transparent&hide_border=true&title_color=00D56A&text_color=A2A6AE&icon_color=00D56A&include_all_commits=true&count_private=true" alt="Vikram Singh GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcopensource&layout=compact&theme=transparent&hide_border=true&title_color=00D56A&text_color=A2A6AE" alt="Vikram Singh most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=fcopensource&theme=transparent&hide_border=true&ring=00D56A&fire=00D56A&currStreakLabel=00D56A&sideLabels=A2A6AE&dates=697079" alt="Vikram Singh GitHub streak" />
-
-</div>
+- **Share something you're building:** [FlightCoders community](https://flightcoders.com/community)
+- **Explore the code:** [Public repositories](https://github.com/fcopensource?tab=repositories)
+- **Talk about a collaboration:** [LinkedIn](https://www.linkedin.com/in/vikramsde) or [email](mailto:kumarv38078@gmail.com)
 
 ---
 
 <div align="center">
 
-### `BUILD → SHIP → LEARN → REPEAT`
+<a href="https://flightcoders.com"><img src="./assets/flightcoders-icon.png" alt="FlightCoders FC wing and code-bracket emblem" width="112" height="112" /></a>
 
-**Software engineer · AI systems · developer tools · builder communities**
+### Big ideas. Brilliant people. Built together.
 
-[flightcoders.com](https://flightcoders.com) · [veyracode.com](https://veyracode.com) · [carrerfit.com](https://carrerfit.com)
+**BUILD · LEARN · COLLABORATE · TAKE FLIGHT**
 
-<br />
-
-![Profile views](https://komarev.com/ghpvc/?username=fcopensource&style=flat-square&color=00D56A&labelColor=090B0E)
+[flightcoders.com](https://flightcoders.com)
 
 </div>
