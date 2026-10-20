@@ -1,126 +1,99 @@
 <div align="center">
 
-<a href="https://flightcoders.com"><img src="./assets/flightcoders-banner.png" alt="FlightCoders — Build. Learn. Collaborate. Take flight." width="100%" /></a>
+<a href="https://flightcoders.com"><img src="./assets/profile-header.svg" alt="FlightCoders — Software development, AI systems, and developer tools" width="100%" /></a>
 
-# Vikram Singh
+# FlightCoders
 
-**Software engineer · AI systems · Developer tools**
+**Your vision. Our engineering. Exceptional software.**
 
-Building useful software and a community of people who love making it.
+We build software products, artificial intelligence systems, and custom applications for businesses.
 
-[![Explore FlightCoders](https://img.shields.io/badge/EXPLORE-FLIGHTCODERS-24EE79?style=for-the-badge&labelColor=08110C)](https://flightcoders.com)
-[![Projects](https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-24EE79?style=for-the-badge&labelColor=08110C)](https://github.com/fcopensource?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LET'S-CONNECT-D8E6DC?style=for-the-badge&labelColor=08110C)](https://www.linkedin.com/in/vikramsde)
+[![Website](https://img.shields.io/badge/EXPLORE-FLIGHTCODERS-24EE79?style=for-the-badge&labelColor=08110C)](https://flightcoders.com)
+[![Products](https://img.shields.io/badge/DISCOVER-OUR_SOFTWARE-24EE79?style=for-the-badge&labelColor=08110C)](https://flightcoders.com/projects)
+[![Contact](https://img.shields.io/badge/START-A_PROJECT-D8E6DC?style=for-the-badge&labelColor=08110C)](https://flightcoders.com/hire-us)
 
-**[Community](https://flightcoders.com/community) · [Veyra Editor](https://veyracode.com) · [CareerFit](https://carrerfit.com) · [Email me](mailto:kumarv38078@gmail.com)**
+**[Services](https://flightcoders.com/services) · [Repositories](https://github.com/fcopensource?tab=repositories) · [hire@flightcoders.com](mailto:hire@flightcoders.com)**
 
 </div>
 
 ---
 
-## A little about the builder
+## Software built around your business
 
-I'm **Vikram**, working across AI-assisted workflows, local-first developer tools, full-stack applications, and enterprise software. I enjoy taking a problem from an early idea through the interface, backend, and details that make it useful.
+FlightCoders brings product design and engineering together to turn ideas into working software. We work across custom applications, practical AI, business integrations, and developer tools.
 
-My current focus is **FlightCoders**, **Veyra Editor**, and **CareerFit**: helping developers connect, build, and discover opportunities.
-
-```text
-THE FLIGHT PLAN
-│
-├── Build tools that make developers more capable.
-├── Turn AI experiments into useful product workflows.
-├── Share the work, the lessons, and the questions.
-└── Bring curious people together to build what comes next.
-```
-
-## Built here. Open to exploration.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 / FlightCoders
-**A home for ambitious developers.**
-
-A developer community taking shape around project sharing, questions, coding challenges, and finding collaborators across borders.
-
-`Next.js` `TypeScript` `MySQL`
-
-[Explore the community ↗](https://flightcoders.com/community) · [View source ↗](https://github.com/fcopensource/flightcoders)
-
-</td>
-<td width="50%" valign="top">
-
-### 02 / Veyra Editor
-**Developer tools, close to your code.**
-
-A local-first, AI-native editor with native project access, Monaco editing, Git, a real terminal, and AI-assisted coding workflows.
-
-`Tauri` `Rust` `React` `Monaco`
-
-[Explore Veyra ↗](https://veyracode.com) · [View source ↗](https://github.com/fcopensource/veyraeditor)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 / CareerFit
-**Make the next career step more informed.**
-
-AI career intelligence spanning job discovery, resume analysis, matching, interview practice, and application tracking.
-
-`Next.js` `TypeScript` `Express` `AI`
-
-[Explore CareerFit ↗](https://carrerfit.com) · [View source ↗](https://github.com/fcopensource/carrerfitnew)
-
-</td>
-<td width="50%" valign="top">
-
-### 04 / Research & experiments
-**Room for the next question.**
-
-Research workflows, anomaly detection, and data applications. A place to explore ideas and learn by implementing them.
-
-[AI research workflows ↗](https://github.com/fcopensource/intellithesis)<br />
-[Outlier analysis ↗](https://github.com/fcopensource/High-Contrast-Subspaces-for-Density-Based-Outlier-Ranking)<br />
-[CryptoTrack ↗](https://github.com/fcopensource/CryptoTrack)
-
-</td>
-</tr>
-</table>
-
-## The engineering toolkit
-
-| Area | Tools I work with |
+| What you need | How we can help |
 | :--- | :--- |
-| Interfaces | React, Next.js, TypeScript, JavaScript, Monaco |
-| Backend & APIs | Node.js, Express, Python, Django, FastAPI |
-| Desktop & systems | Rust, Tauri, C++, Java |
-| Data & infrastructure | PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS |
-| Enterprise | Salesforce, Apex, Lightning Web Components |
-| Applied ML | pandas, NumPy, scikit-learn |
+| Artificial intelligence systems | AI assistants, knowledge search, document intelligence, and workflow automation |
+| Intelligent software systems | Business applications, APIs, integrations, and decision-support tools |
+| Web and SaaS products | Product interfaces, dashboards, full-stack applications, and MVP development |
+| Desktop and developer tools | Native applications, coding environments, and local-first workflows |
+| Engineering support | Discuss developer skills, project requirements, availability, and collaboration |
 
-## Build with me
+[Discuss your requirements →](https://flightcoders.com/hire-us)
 
-**Have an idea, a useful bug report, or a different perspective?** Explore a repository and open an issue with the problem, context, and what you have tried. For a larger contribution, start with an issue so we can agree on the direction before implementation.
+## Our software
 
-I'm interested in conversations about developer experience, practical AI, local-first software, and tools that help people do better work.
+### Veyra Editor
 
-- **Share something you're building:** [FlightCoders community](https://flightcoders.com/community)
-- **Explore the code:** [Public repositories](https://github.com/fcopensource?tab=repositories)
-- **Talk about a collaboration:** [LinkedIn](https://www.linkedin.com/in/vikramsde) or [email](mailto:kumarv38078@gmail.com)
+A local-first code editor bringing AI-assisted workflows, Git, and a real terminal into one workspace.
+
+`Rust` `Tauri` `React`
+
+[Explore the repository →](https://github.com/fcopensource/veyraeditor)
+
+### Daemon
+
+A native terminal application combining a real shell with live system telemetry and a distinctive desktop interface.
+
+`Rust` `egui` `Native systems`
+
+[Explore the repository →](https://github.com/fcopensource/daemon)
+
+### CareerFit
+
+An AI career matching platform connecting resume information with job discovery and career workflows.
+
+`Next.js` `Express` `AI`
+
+[Explore the repository →](https://github.com/fcopensource/carrerfitnew)
+
+### HireLens
+
+An AI interviewer with resume-aware conversations and local vision coaching.
+
+`Django` `AI` `Computer vision`
+
+[Explore the repository →](https://github.com/fcopensource/hirelens)
+
+For product evaluation, customization, deployment, or commercial inquiries, contact **[hire@flightcoders.com](mailto:hire@flightcoders.com)**. Licensing and usage terms are defined by each repository and any applicable agreement.
+
+## From requirements to delivery
+
+1. **Discover** — Understand your users, business goals, and technical constraints.
+2. **Define** — Agree on scope, architecture, deliverables, timelines, and commercial terms.
+3. **Develop** — Build in reviewable stages with working demonstrations and feedback.
+4. **Deliver** — Test the product, prepare the handover, and agree on deployment and support.
+
+## Build with FlightCoders
+
+**Need software for your business or engineering support for your team?** Tell us what you want to build, the systems involved, and your preferred timeline.
+
+- **Start a project:** [flightcoders.com/hire-us](https://flightcoders.com/hire-us)
+- **Business inquiries:** [hire@flightcoders.com](mailto:hire@flightcoders.com)
+- **Explore our work:** [Software projects](https://flightcoders.com/projects)
+- **Contribute:** Open an issue in the relevant repository with the problem and context. Discuss larger changes before implementation and follow that repository’s contribution and license terms.
 
 ---
 
 <div align="center">
 
-<a href="https://flightcoders.com"><img src="./assets/flightcoders-icon.png" alt="FlightCoders FC wing and code-bracket emblem" width="112" height="112" /></a>
+<a href="https://flightcoders.com"><img src="./assets/flightcoders-icon.png" alt="FlightCoders logo" width="112" height="112" /></a>
 
-### Big ideas. Brilliant people. Built together.
+### Thoughtful engineering. Useful software.
 
-**BUILD · LEARN · COLLABORATE · TAKE FLIGHT**
+**SOFTWARE PRODUCTS · CUSTOM DEVELOPMENT · ENGINEERING SUPPORT**
 
-[flightcoders.com](https://flightcoders.com)
+[flightcoders.com](https://flightcoders.com) · [hire@flightcoders.com](mailto:hire@flightcoders.com)
 
 </div>
