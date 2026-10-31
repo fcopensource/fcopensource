@@ -58,7 +58,8 @@ async function loadCommits(since) {
   const repos = [];
   for (let after = null; ;) {
     const page = (await gql(REPOS, { login: LOGIN, after })).user.repositories;
-    repos.push(...page.nodes.filter(r => r.pushedAt >= since));
+    // The profile repository only holds this README and its cards, so it isn't product work.
+    repos.push(...page.nodes.filter(r => r.pushedAt >= since && r.name.toLowerCase() !== LOGIN.toLowerCase()));
     if (!page.pageInfo.hasNextPage) break;
     after = page.pageInfo.endCursor;
   }
