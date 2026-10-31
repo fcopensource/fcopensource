@@ -1,0 +1,49 @@
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light&color_snake=#0b8a5f&color_dots=#ebedf0,#b6f0d6,#6fdcb0,#22c08a,#0b8a5f
+            dist/snake-dark.svg?palette=github-dark&color_snake=#3ef0b1&color_dots=#10201a,#0f4a34,#14795a,#1fb486,#3ef0b1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Activity, stats and language cards
+        run: node .github/scripts/profile-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+          OUT: dist
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: refresh profile cards"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
