@@ -40,7 +40,8 @@ function streaks(days) {
   let current = 0, i = days.length - 1;
   if (i >= 0 && days[i].contributionCount === 0) i--; // today may not have activity yet
   for (; i >= 0 && days[i].contributionCount > 0; i--) current++;
-  return { current, longest };
+  const active = days.filter(d => d.contributionCount > 0).length;
+  return { current, longest, active };
 }
 
 const frame = (w, h, title, sub, body) => `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(title)}">
@@ -85,7 +86,7 @@ function stats(u, s) {
     ["Commits", c.totalCommitContributions, "last 12 months"],
     ["Pull requests", c.totalPullRequestContributions, "last 12 months"],
     ["Public repos", u.repositories.totalCount, `${fmt(stars)} stars`],
-    ["Current streak", s.current, s.current === 1 ? "day" : "days"],
+    ["Active days", s.active, "last 12 months"],
     ["Longest streak", s.longest, s.longest === 1 ? "day" : "days"],
   ];
   const body = items.map(([k, v, sub], i) => { const x = 28 + (i % 3) * 182, y = 76 + Math.floor(i / 3) * 92;
