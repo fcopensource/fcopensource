@@ -15,7 +15,7 @@
 
 FlightCoders is a software engineering company. We design and build custom software, AI systems and desktop applications for businesses, and we ship our own products under **Veyra**, our developer-tools brand, and **BaazCyber**, our security brand.
 
-Our software is published on the **Microsoft Store**, the **Visual Studio Code Marketplace**, the **Chrome Web Store** and **Firefox Add-ons**, and much of it is open source here on GitHub.
+Our software is published on the **Microsoft Store**, the **Visual Studio Code Marketplace**, the **Chrome Web Store**, **Microsoft Edge Add-ons** and **Firefox Add-ons**, and much of it is open source here on GitHub.
 
 ## Products
 
@@ -37,6 +37,7 @@ Our software is published on the **Microsoft Store**, the **Visual Studio Code M
 <a href="https://apps.microsoft.com/detail/XP8LKHC447THM1"><img src="https://img.shields.io/badge/Microsoft_Store-Veyra_Studio-0067b8?style=flat-square&logo=windows&logoColor=white" alt="Veyra Studio on the Microsoft Store" /></a>
 <a href="https://apps.microsoft.com/detail/XP89HQ4DMX824K"><img src="https://img.shields.io/badge/Microsoft_Store-Veyra_PDF-0067b8?style=flat-square&logo=windows&logoColor=white" alt="Veyra PDF on the Microsoft Store" /></a>
 <a href="https://chromewebstore.google.com/detail/salesforce-studio/goeclmlgbldldpcdhddkdpkjpohghafn"><img src="https://img.shields.io/badge/Chrome_Web_Store-Salesforce_Studio-1a73e8?style=flat-square&logo=googlechrome&logoColor=white" alt="Salesforce Studio on the Chrome Web Store" /></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/salesforce-studio/mmcdphmdapfdegcplmnjjneahekkpehn"><img src="https://img.shields.io/badge/Edge_Add--ons-Salesforce_Studio-0c59a4?style=flat-square&logo=microsoftedge&logoColor=white" alt="Salesforce Studio on Microsoft Edge Add-ons" /></a>
 <a href="https://addons.mozilla.org/firefox/addon/salesforce-studio/"><img src="https://img.shields.io/badge/Firefox_Add--ons-Salesforce_Studio-e66000?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Salesforce Studio on Firefox Add-ons" /></a>
 <a href="https://marketplace.visualstudio.com/publishers/flightcoders"><img src="https://img.shields.io/badge/VS_Code_Marketplace-flightcoders-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" alt="FlightCoders on the VS Code Marketplace" /></a>
 
@@ -60,7 +61,9 @@ Timelines, payment milestones, ownership and ongoing support are agreed in the p
 
 ## Engineering activity
 
-<img src="https://raw.githubusercontent.com/fcopensource/fcopensource/output/activity.svg" alt="Weekly commit activity over the last 12 months" width="100%" />
+<img src="https://raw.githubusercontent.com/fcopensource/fcopensource/output/activity.svg" alt="Weekly commits across our public repositories over the last 12 months" width="100%" />
+
+<img src="https://raw.githubusercontent.com/fcopensource/fcopensource/output/commits.svg" alt="Our most recent commits across public repositories" width="100%" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fcopensource/fcopensource/output/stats.svg" alt="GitHub statistics: contributions, commits, pull requests, repositories and streaks" width="49%" />
