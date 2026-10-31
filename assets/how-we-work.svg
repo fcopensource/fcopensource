@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="How we work: understand, define, build, deliver">
+<style>.f{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif} .dash{stroke-dasharray:6 8;animation:dash 1.6s linear infinite} @keyframes dash{to{stroke-dashoffset:-28}}
+.p{animation:p 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center} @keyframes p{0%,100%{transform:scale(1)}50%{transform:scale(1.18);opacity:.6}}</style>
+<defs><linearGradient id="n" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3ef0b1"/><stop offset="1" stop-color="#0b8a5f"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1199" height="189" rx="20" fill="#07110d" stroke="#1f3a2e"/>
+<line class="dash" x1="150" y1="62" x2="1050" y2="62" stroke="#2a6b52" stroke-width="2"/>
+<g class="f">
+  <circle class="p" cx="150" cy="62" r="30" fill="#3ef0b1" opacity=".18" style="animation-delay:0s"/>
+  <circle cx="150" cy="62" r="24" fill="url(#n)"/><circle cx="150" cy="62" r="24" fill="none" stroke="#fff" stroke-opacity=".3"/>
+  <text x="150" y="69" text-anchor="middle" fill="#03140d" font-size="19" font-weight="800">1</text>
+  <text x="150" y="122" text-anchor="middle" fill="#f2fbf6" font-size="19" font-weight="800">Understand</text>
+  <text x="150" y="148" text-anchor="middle" fill="#8eaa9e" font-size="14">The problem and the people</text><text x="150" y="167" text-anchor="middle" fill="#8eaa9e" font-size="14">using the software</text></g><g class="f">
+  <circle class="p" cx="450" cy="62" r="30" fill="#3ef0b1" opacity=".18" style="animation-delay:1s"/>
+  <circle cx="450" cy="62" r="24" fill="url(#n)"/><circle cx="450" cy="62" r="24" fill="none" stroke="#fff" stroke-opacity=".3"/>
+  <text x="450" y="69" text-anchor="middle" fill="#03140d" font-size="19" font-weight="800">2</text>
+  <text x="450" y="122" text-anchor="middle" fill="#f2fbf6" font-size="19" font-weight="800">Define</text>
+  <text x="450" y="148" text-anchor="middle" fill="#8eaa9e" font-size="14">Scope, architecture and</text><text x="450" y="167" text-anchor="middle" fill="#8eaa9e" font-size="14">delivery milestones</text></g><g class="f">
+  <circle class="p" cx="750" cy="62" r="30" fill="#3ef0b1" opacity=".18" style="animation-delay:2s"/>
+  <circle cx="750" cy="62" r="24" fill="url(#n)"/><circle cx="750" cy="62" r="24" fill="none" stroke="#fff" stroke-opacity=".3"/>
+  <text x="750" y="69" text-anchor="middle" fill="#03140d" font-size="19" font-weight="800">3</text>
+  <text x="750" y="122" text-anchor="middle" fill="#f2fbf6" font-size="19" font-weight="800">Build</text>
+  <text x="750" y="148" text-anchor="middle" fill="#8eaa9e" font-size="14">In reviewable stages you can</text><text x="750" y="167" text-anchor="middle" fill="#8eaa9e" font-size="14">try as we go</text></g><g class="f">
+  <circle class="p" cx="1050" cy="62" r="30" fill="#3ef0b1" opacity=".18" style="animation-delay:3s"/>
+  <circle cx="1050" cy="62" r="24" fill="url(#n)"/><circle cx="1050" cy="62" r="24" fill="none" stroke="#fff" stroke-opacity=".3"/>
+  <text x="1050" y="69" text-anchor="middle" fill="#03140d" font-size="19" font-weight="800">4</text>
+  <text x="1050" y="122" text-anchor="middle" fill="#f2fbf6" font-size="19" font-weight="800">Deliver</text>
+  <text x="1050" y="148" text-anchor="middle" fill="#8eaa9e" font-size="14">Tested, documented and handed</text><text x="1050" y="167" text-anchor="middle" fill="#8eaa9e" font-size="14">over properly</text></g>
+</svg>
