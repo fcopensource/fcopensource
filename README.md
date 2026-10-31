@@ -1,83 +1,115 @@
 <div align="center">
 
-<a href="https://flightcoders.com"><img src="./assets/flightcoders-avatar.png" alt="FlightCoders" width="104" height="104" /></a>
+<a href="https://flightcoders.com"><img src="./assets/hero.svg" alt="FlightCoders: we build software businesses run on. Custom software, AI systems, desktop apps and developer tools." width="100%" /></a>
 
-# FlightCoders
+<br />
 
-### Software that works. Products that matter.
-
-**Custom software · AI systems · Developer tools**
-
-We build software for businesses and create products for the people who build it.
-
-[Website](https://flightcoders.com) &nbsp; / &nbsp; [Our software](https://flightcoders.com/projects) &nbsp; / &nbsp; [Start a project](https://flightcoders.com/hire-us) &nbsp; / &nbsp; [Email us](mailto:hire@flightcoders.com)
-
-<img src="./assets/company-header.svg" alt="FlightCoders — Software products, custom development, and thoughtful engineering" width="100%" />
+<a href="https://flightcoders.com"><img src="https://img.shields.io/badge/flightcoders.com-0b8a5f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://flightcoders.com/hire-us"><img src="https://img.shields.io/badge/Start_a_project-3ef0b1?style=for-the-badge&logo=rocket&logoColor=04140d" alt="Start a project" /></a>
+<a href="mailto:hire@flightcoders.com"><img src="https://img.shields.io/badge/hire@flightcoders.com-0f2119?style=for-the-badge&logo=gmail&logoColor=3ef0b1" alt="Email hire@flightcoders.com" /></a>
+<a href="https://flightcoders.com/projects"><img src="https://img.shields.io/badge/Our_work-0f2119?style=for-the-badge&logo=bookstack&logoColor=3ef0b1" alt="Our work" /></a>
 
 </div>
 
-## Engineering, with a product mindset
+## About FlightCoders
 
-FlightCoders is a software engineering company and the parent company of **Veyra**, our developer-tools business. We bring the same care to client applications that we put into our own software: clear interfaces, useful capabilities, and thoughtful engineering.
+FlightCoders is a software engineering company. We design and build custom software, AI systems and desktop applications for businesses, and we ship our own products under **Veyra**, our developer-tools brand, and **BaazCyber**, our security brand.
 
-Have an idea, an existing product, or a workflow that needs improving? We can discuss the right scope, architecture, and next steps.
+Our software is published on the **Microsoft Store**, the **Visual Studio Code Marketplace**, the **Chrome Web Store** and **Firefox Add-ons**, and much of it is open source here on GitHub.
 
-**Business inquiries: [hire@flightcoders.com](mailto:hire@flightcoders.com)**
+## Products
 
-## Our products and projects
+<p align="center">
+  <a href="https://veyraeditor.com"><img src="./assets/product-veyra-studio.svg" alt="Veyra Studio" width="49%" /></a>
+  <a href="https://veyraeditor.com/pdf"><img src="./assets/product-veyra-pdf.svg" alt="Veyra PDF" width="49%" /></a>
+  <a href="https://veyraeditor.com/salesforce-studio"><img src="./assets/product-salesforce-studio.svg" alt="Salesforce Studio" width="49%" /></a>
+  <a href="https://github.com/fcopensource/baazcyber"><img src="./assets/product-baazcyber.svg" alt="BaazCyber Antivirus" width="49%" /></a>
+  <a href="https://marketplace.visualstudio.com/publishers/flightcoders"><img src="./assets/product-veyra-extensions.svg" alt="Veyra extensions for VS Code" width="49%" /></a>
+  <a href="https://github.com/fcopensource/daemon"><img src="./assets/product-daemon.svg" alt="Daemon terminal" width="49%" /></a>
+  <a href="https://github.com/fcopensource/carrerfitnew"><img src="./assets/product-careerfit.svg" alt="CareerFit" width="49%" /></a>
+  <a href="https://flightcoders.com/projects"><img src="./assets/product-hirelens.svg" alt="HireLens" width="49%" /></a>
+</p>
 
-| Software | What it does | Explore |
-| :--- | :--- | :--- |
-| **Veyra Studio** | A local-first AI code editor with Git, a real terminal, and native project access. Built by Veyra, a FlightCoders company. | [veyraeditor.com](https://veyraeditor.com) · [Source](https://github.com/fcopensource/veyraeditor) |
-| **Daemon** | A native terminal experience combining a real shell, system telemetry, and a distinctive desktop interface. | [Repository](https://github.com/fcopensource/daemon) |
-| **CareerFit** | An AI career platform connecting resume information with job discovery and career workflows. | [Repository](https://github.com/fcopensource/carrerfitnew) |
-| **HireLens** | An AI interviewer with resume-aware conversations and local vision coaching. | [Repository](https://github.com/fcopensource/hirelens) |
+<div align="center">
 
-### Meet Veyra
+**Get our apps**
 
-Our product company builds tools for developers, including **Veyra Studio**, **Veyra PDF**, **Salesforce Studio**, and extensions for Git history, API development, containers, and more.
+<a href="https://apps.microsoft.com/detail/XP8LKHC447THM1"><img src="https://img.shields.io/badge/Microsoft_Store-Veyra_Studio-0067b8?style=flat-square&logo=windows&logoColor=white" alt="Veyra Studio on the Microsoft Store" /></a>
+<a href="https://apps.microsoft.com/detail/XP89HQ4DMX824K"><img src="https://img.shields.io/badge/Microsoft_Store-Veyra_PDF-0067b8?style=flat-square&logo=windows&logoColor=white" alt="Veyra PDF on the Microsoft Store" /></a>
+<a href="https://chromewebstore.google.com/detail/salesforce-studio/goeclmlgbldldpcdhddkdpkjpohghafn"><img src="https://img.shields.io/badge/Chrome_Web_Store-Salesforce_Studio-1a73e8?style=flat-square&logo=googlechrome&logoColor=white" alt="Salesforce Studio on the Chrome Web Store" /></a>
+<a href="https://addons.mozilla.org/firefox/addon/salesforce-studio/"><img src="https://img.shields.io/badge/Firefox_Add--ons-Salesforce_Studio-e66000?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Salesforce Studio on Firefox Add-ons" /></a>
+<a href="https://marketplace.visualstudio.com/publishers/flightcoders"><img src="https://img.shields.io/badge/VS_Code_Marketplace-flightcoders-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" alt="FlightCoders on the VS Code Marketplace" /></a>
 
-[Explore Veyra](https://veyraeditor.com) · [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/flightcoders)
+</div>
 
 ## What we build for businesses
 
 | Capability | Example work |
 | :--- | :--- |
-| **AI systems and automation** | Assistants, document intelligence, knowledge retrieval, and connected workflows |
-| **Custom business software** | Internal platforms, dashboards, APIs, integrations, and decision-support tools |
-| **Web applications and SaaS** | Product design, MVPs, full-stack development, and account workflows |
-| **Desktop and developer tools** | Native applications, local-first experiences, and system integrations |
-| **Engineering collaboration** | Discuss the skills, working hours, scope, and support your project needs |
-
-[Explore our services](https://flightcoders.com/services) · [Tell us about your project](https://flightcoders.com/hire-us)
+| **AI systems and automation** | Assistants, document intelligence, knowledge retrieval and connected workflows |
+| **Custom business software** | Internal platforms, dashboards, APIs, integrations and decision-support tools |
+| **Web applications and SaaS** | Product design, MVPs, full-stack development and account workflows |
+| **Desktop and developer tools** | Native Windows, macOS and Linux apps, local-first software and editor extensions |
+| **Security software** | Malware scanning, code security review and audit-ready reporting |
 
 ## How we work
 
-**Understand** the problem and the people using the software. **Define** the scope and delivery milestones. **Build** in reviewable stages. **Deliver** with testing, documentation, and an agreed handover.
+<img src="./assets/how-we-work.svg" alt="How we work: 1 Understand the problem, 2 Define scope and milestones, 3 Build in reviewable stages, 4 Deliver tested and documented software" width="100%" />
 
-Timelines, payment milestones, ownership, and ongoing support are discussed in the project proposal.
+Timelines, payment milestones, ownership and ongoing support are agreed in the project proposal.
 
-## Find the code and its history
+## Engineering activity
 
-- **Company website:** [flightcoders](https://github.com/fcopensource/flightcoders) · [Website commits](https://github.com/fcopensource/flightcoders/commits/main/)
-- **This GitHub profile:** [fcopensource](https://github.com/fcopensource/fcopensource) · [Profile commits](https://github.com/fcopensource/fcopensource/commits/main/)
-- **Terminal project:** [daemon](https://github.com/fcopensource/daemon) · [Daemon commits](https://github.com/fcopensource/daemon/commits/)
-- **More work:** [All public repositories](https://github.com/fcopensource?tab=repositories)
+<img src="https://raw.githubusercontent.com/fcopensource/fcopensource/output/activity.svg" alt="Weekly commit activity over the last 12 months" width="100%" />
 
-Each repository has its own source, history, license, and contribution requirements. Check the relevant README and license before using or contributing to a project.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fcopensource/fcopensource/output/stats.svg" alt="GitHub statistics: contributions, commits, pull requests, repositories and streaks" width="49%" />
+  <img src="https://raw.githubusercontent.com/fcopensource/fcopensource/output/languages.svg" alt="Top languages across public repositories" width="49%" />
+</p>
 
-## Build with FlightCoders
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fcopensource/fcopensource/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fcopensource/fcopensource/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/fcopensource/fcopensource/output/snake-dark.svg" alt="Contribution graph for the last 12 months" width="100%" />
+</picture>
 
-For a project, software evaluation, customization, or engineering collaboration, email **[hire@flightcoders.com](mailto:hire@flightcoders.com)**. Share the problem, intended users, main requirements, and preferred timeline.
+<sub>Refreshed every day from public GitHub data by <a href="./.github/workflows/profile.yml">a GitHub Action</a>.</sub>
 
-For bugs and contributions, open an issue in the relevant repository with the problem and context. Discuss larger changes before starting implementation.
+## Built with
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-0f2119?style=for-the-badge&logo=rust&logoColor=dea584)
+![Tauri](https://img.shields.io/badge/Tauri-0f2119?style=for-the-badge&logo=tauri&logoColor=24c8db)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f2119?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![React](https://img.shields.io/badge/React-0f2119?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0f2119?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0f2119?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
+![Python](https://img.shields.io/badge/Python-0f2119?style=for-the-badge&logo=python&logoColor=3776ab)
+![Kotlin](https://img.shields.io/badge/Kotlin-0f2119?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
+![Swift](https://img.shields.io/badge/Swift-0f2119?style=for-the-badge&logo=swift&logoColor=f05138)
+![Salesforce](https://img.shields.io/badge/Salesforce-0f2119?style=for-the-badge&logo=salesforce&logoColor=00a1e0)
+![Docker](https://img.shields.io/badge/Docker-0f2119?style=for-the-badge&logo=docker&logoColor=2496ed)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f2119?style=for-the-badge&logo=githubactions&logoColor=2088ff)
+
+</div>
+
+## Work with us
+
+Have an idea, an existing product or a workflow that needs improving? Tell us the problem, who will use the software, the main requirements and your preferred timeline, and we'll suggest the right scope, architecture and next steps.
+
+**Business inquiries: [hire@flightcoders.com](mailto:hire@flightcoders.com)** · [Start a project](https://flightcoders.com/hire-us) · [Our services](https://flightcoders.com/services)
+
+For bugs and contributions, open an issue in the relevant repository. Each repository has its own license and contribution guidelines.
 
 ---
 
 <div align="center">
 
+<a href="https://flightcoders.com"><img src="./assets/flightcoders-avatar.png" alt="FlightCoders" width="44" height="44" /></a>
+
 **Good software starts with a good conversation.**
 
-[flightcoders.com](https://flightcoders.com) &nbsp; · &nbsp; [hire@flightcoders.com](mailto:hire@flightcoders.com)
+<sub>© FlightCoders · <a href="https://flightcoders.com">flightcoders.com</a></sub>
 
 </div>
