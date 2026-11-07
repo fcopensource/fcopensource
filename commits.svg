@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="452" viewBox="0 0 1200 452" role="img" aria-label="Recent commits">
+<style>.f{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif} .grow{animation:grow 1.2s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:bottom} @keyframes grow{from{transform:scaleY(0)}}
+.draw{stroke-dasharray:4000;stroke-dashoffset:4000;animation:draw 2.4s ease forwards} @keyframes draw{to{stroke-dashoffset:0}}
+.fade{animation:fade .8s ease both} @keyframes fade{from{opacity:0}}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1c15"/><stop offset="1" stop-color="#07110d"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3ef0b1"/><stop offset="1" stop-color="#0b8a5f"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3ef0b1" stop-opacity=".35"/><stop offset="1" stop-color="#3ef0b1" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1199" height="451" rx="18" fill="url(#bg)" stroke="#1f3a2e"/>
+<g class="f"><text x="28" y="42" fill="#f2fbf6" font-size="19" font-weight="800">Recent commits</text>
+<text x="1172" y="42" fill="#7fa596" font-size="13" text-anchor="end">latest work across public repositories</text></g>
+<g class="f fade" style="animation-delay:0s">
+<rect x="20" y="72" width="1160" height="40" rx="10" fill="#0f2119"/>
+<circle cx="42" cy="92" r="5" fill="#3ef0b1"/>
+<rect x="58" y="81" width="105.4" height="22" rx="11" fill="#3ef0b1" fill-opacity=".12" stroke="#3ef0b1" stroke-opacity=".4"/>
+<text x="110.7" y="96.5" fill="#3ef0b1" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="97" fill="#e6f5ee" font-size="14.5">Veyra Wrapped 1.0.0: your year in code, as a story to share</text>
+<text x="1050" y="97" fill="#5f8576" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">6128c9d</text>
+<text x="1162" y="97" fill="#7fa596" font-size="12.5" text-anchor="end">Oct 31, 2026</text></g><g class="f fade" style="animation-delay:0.08s">
+<rect x="20" y="118" width="1160" height="40" rx="10" fill="#0b1914"/>
+<circle cx="42" cy="138" r="5" fill="#3ef0b1"/>
+<rect x="58" y="127" width="105.4" height="22" rx="11" fill="#3ef0b1" fill-opacity=".12" stroke="#3ef0b1" stroke-opacity=".4"/>
+<text x="110.7" y="142.5" fill="#3ef0b1" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="143" fill="#e6f5ee" font-size="14.5">Code Guard and CodeSnap: link to the VS Code Marketplace</text>
+<text x="1050" y="143" fill="#5f8576" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">0a08342</text>
+<text x="1162" y="143" fill="#7fa596" font-size="12.5" text-anchor="end">Oct 31, 2026</text></g><g class="f fade" style="animation-delay:0.16s">
+<rect x="20" y="164" width="1160" height="40" rx="10" fill="#0f2119"/>
+<circle cx="42" cy="184" r="5" fill="#3ef0b1"/>
+<rect x="58" y="173" width="105.4" height="22" rx="11" fill="#3ef0b1" fill-opacity=".12" stroke="#3ef0b1" stroke-opacity=".4"/>
+<text x="110.7" y="188.5" fill="#3ef0b1" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="189" fill="#e6f5ee" font-size="14.5">BaazCyber page: real logo and claims that match the app</text>
+<text x="1050" y="189" fill="#5f8576" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">a87a697</text>
+<text x="1162" y="189" fill="#7fa596" font-size="12.5" text-anchor="end">Oct 31, 2026</text></g><g class="f fade" style="animation-delay:0.24s">
+<rect x="20" y="210" width="1160" height="40" rx="10" fill="#0b1914"/>
+<circle cx="42" cy="230" r="5" fill="#7cd4ff"/>
+<rect x="58" y="219" width="90.60000000000001" height="22" rx="11" fill="#7cd4ff" fill-opacity=".12" stroke="#7cd4ff" stroke-opacity=".4"/>
+<text x="103.30000000000001" y="234.5" fill="#7cd4ff" font-size="12.5" font-weight="700" text-anchor="middle">baazcyber</text>
+<text x="164.60000000000002" y="235" fill="#e6f5ee" font-size="14.5">feat(app): check for a signed update on start and offer to install it</text>
+<text x="1050" y="235" fill="#5f8576" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">bb191fd</text>
+<text x="1162" y="235" fill="#7fa596" font-size="12.5" text-anchor="end">Oct 31, 2026</text></g><g class="f fade" style="animation-delay:0.32s">
+<rect x="20" y="256" width="1160" height="40" rx="10" fill="#0f2119"/>
+<circle cx="42" cy="276" r="5" fill="#7cd4ff"/>
+<rect x="58" y="265" width="90.60000000000001" height="22" rx="11" fill="#7cd4ff" fill-opacity=".12" stroke="#7cd4ff" stroke-opacity=".4"/>
+<text x="103.30000000000001" y="280.5" fill="#7cd4ff" font-size="12.5" font-weight="700" text-anchor="middle">baazcyber</text>
+<text x="164.60000000000002" y="281" fill="#e6f5ee" font-size="14.5">fix(release): publish signed installers that installed copies can upd…</text>
+<text x="1050" y="281" fill="#5f8576" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">0ef366c</text>
+<text x="1162" y="281" fill="#7fa596" font-size="12.5" text-anchor="end">Oct 31, 2026</text></g><g class="f fade" style="animation-delay:0.4s">
+<rect x="20" y="302" width="1160" height="40" rx="10" fill="#0b1914"/>
+<circle cx="42" cy="322" r="5" fill="#7cd4ff"/>
+<rect x="58" y="311" width="90.60000000000001" height="22" rx="11" fill="#7cd4ff" fill-opacity=".12" stroke="#7cd4ff" stroke-opacity=".4"/>
+<text x="103.30000000000001" y="326.5" fill="#7cd4ff" font-size="12.5" font-weight="700" text-anchor="middle">baazcyber</text>
+<text x="164.60000000000002" y="327" fill="#e6f5ee" font-size="14.5">chore(release): 0.2.0</text>
+<text x="1050" y="327" fill="#5f8576" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">af41ec0</text>
+<text x="1162" y="327" fill="#7fa596" font-size="12.5" text-anchor="end">Oct 31, 2026</text></g><g class="f fade" style="animation-delay:0.48s">
+<rect x="20" y="348" width="1160" height="40" rx="10" fill="#0f2119"/>
+<circle cx="42" cy="368" r="5" fill="#7cd4ff"/>
+<rect x="58" y="357" width="90.60000000000001" height="22" rx="11" fill="#7cd4ff" fill-opacity=".12" stroke="#7cd4ff" stroke-opacity=".4"/>
+<text x="103.30000000000001" y="372.5" fill="#7cd4ff" font-size="12.5" font-weight="700" text-anchor="middle">baazcyber</text>
+<text x="164.60000000000002" y="373" fill="#e6f5ee" font-size="14.5">feat(app): 3D interface, more scan types and PDF security reports</text>
+<text x="1050" y="373" fill="#5f8576" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">948f8b5</text>
+<text x="1162" y="373" fill="#7fa596" font-size="12.5" text-anchor="end">Oct 31, 2026</text></g><g class="f fade" style="animation-delay:0.56s">
+<rect x="20" y="394" width="1160" height="40" rx="10" fill="#0b1914"/>
+<circle cx="42" cy="414" r="5" fill="#7cd4ff"/>
+<rect x="58" y="403" width="90.60000000000001" height="22" rx="11" fill="#7cd4ff" fill-opacity=".12" stroke="#7cd4ff" stroke-opacity=".4"/>
+<text x="103.30000000000001" y="418.5" fill="#7cd4ff" font-size="12.5" font-weight="700" text-anchor="middle">baazcyber</text>
+<text x="164.60000000000002" y="419" fill="#e6f5ee" font-size="14.5">feat(engine): detect web shells, credential theft and AMSI bypass</text>
+<text x="1050" y="419" fill="#5f8576" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">eed3727</text>
+<text x="1162" y="419" fill="#7fa596" font-size="12.5" text-anchor="end">Oct 31, 2026</text></g>
+</svg>

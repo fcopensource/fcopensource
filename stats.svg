@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-label="GitHub at a glance">
+<style>.f{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif} .grow{animation:grow 1.2s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:bottom} @keyframes grow{from{transform:scaleY(0)}}
+.draw{stroke-dasharray:4000;stroke-dashoffset:4000;animation:draw 2.4s ease forwards} @keyframes draw{to{stroke-dashoffset:0}}
+.fade{animation:fade .8s ease both} @keyframes fade{from{opacity:0}}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1c15"/><stop offset="1" stop-color="#07110d"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3ef0b1"/><stop offset="1" stop-color="#0b8a5f"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3ef0b1" stop-opacity=".35"/><stop offset="1" stop-color="#3ef0b1" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="599" height="269" rx="18" fill="url(#bg)" stroke="#1f3a2e"/>
+<g class="f"><text x="28" y="42" fill="#f2fbf6" font-size="19" font-weight="800">GitHub at a glance</text>
+<text x="572" y="42" fill="#7fa596" font-size="13" text-anchor="end">updated daily</text></g>
+<g class="f fade" style="animation-delay:0s"><rect x="28" y="76" width="168" height="78" rx="12" fill="#0f2119" stroke="#1f3a2e"/>
+<text x="44" y="100" fill="#7fa596" font-size="12" font-weight="700" letter-spacing=".6">COMMITS SHIPPED</text>
+<text x="44" y="131" fill="#f2fbf6" font-size="27" font-weight="800">367</text>
+<text x="44" y="146" fill="#5f8576" font-size="11.5">public repos, 12 months</text></g><g class="f fade" style="animation-delay:0.12s"><rect x="210" y="76" width="168" height="78" rx="12" fill="#0f2119" stroke="#1f3a2e"/>
+<text x="226" y="100" fill="#7fa596" font-size="12" font-weight="700" letter-spacing=".6">CONTRIBUTIONS</text>
+<text x="226" y="131" fill="#f2fbf6" font-size="27" font-weight="800">198</text>
+<text x="226" y="146" fill="#5f8576" font-size="11.5">on the profile graph</text></g><g class="f fade" style="animation-delay:0.24s"><rect x="392" y="76" width="168" height="78" rx="12" fill="#0f2119" stroke="#1f3a2e"/>
+<text x="408" y="100" fill="#7fa596" font-size="12" font-weight="700" letter-spacing=".6">PULL REQUESTS</text>
+<text x="408" y="131" fill="#f2fbf6" font-size="27" font-weight="800">33</text>
+<text x="408" y="146" fill="#5f8576" font-size="11.5">last 12 months</text></g><g class="f fade" style="animation-delay:0.36s"><rect x="28" y="168" width="168" height="78" rx="12" fill="#0f2119" stroke="#1f3a2e"/>
+<text x="44" y="192" fill="#7fa596" font-size="12" font-weight="700" letter-spacing=".6">PUBLIC REPOS</text>
+<text x="44" y="223" fill="#f2fbf6" font-size="27" font-weight="800">28</text>
+<text x="44" y="238" fill="#5f8576" font-size="11.5">4 stars</text></g><g class="f fade" style="animation-delay:0.48s"><rect x="210" y="168" width="168" height="78" rx="12" fill="#0f2119" stroke="#1f3a2e"/>
+<text x="226" y="192" fill="#7fa596" font-size="12" font-weight="700" letter-spacing=".6">ACTIVE DAYS</text>
+<text x="226" y="223" fill="#f2fbf6" font-size="27" font-weight="800">37</text>
+<text x="226" y="238" fill="#5f8576" font-size="11.5">last 12 months</text></g><g class="f fade" style="animation-delay:0.6s"><rect x="392" y="168" width="168" height="78" rx="12" fill="#0f2119" stroke="#1f3a2e"/>
+<text x="408" y="192" fill="#7fa596" font-size="12" font-weight="700" letter-spacing=".6">LONGEST STREAK</text>
+<text x="408" y="223" fill="#f2fbf6" font-size="27" font-weight="800">5</text>
+<text x="408" y="238" fill="#5f8576" font-size="11.5">days</text></g>
+</svg>
