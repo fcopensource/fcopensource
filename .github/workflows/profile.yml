@@ -25,8 +25,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-light&color_snake=#0b8a5f&color_dots=#ebedf0,#b6f0d6,#6fdcb0,#22c08a,#0b8a5f
-            dist/snake-dark.svg?palette=github-dark&color_snake=#3ef0b1&color_dots=#10201a,#0f4a34,#14795a,#1fb486,#3ef0b1
+            dist/snake.svg?palette=github-light&color_snake=#d6596f&color_dots=#ebedf0,#f8d9c4,#f2a98a,#e0707f,#d6596f
+            dist/snake-dark.svg?palette=github-dark&color_snake=#f0a540&color_dots=#15132a,#3a2350,#7a3a78,#d0586f,#f0a540
 
       - uses: actions/setup-node@v4
         with:
