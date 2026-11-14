@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="452" viewBox="0 0 1200 452" role="img" aria-label="Recent commits">
+<style>.f{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif} .grow{animation:grow 1.2s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:bottom} @keyframes grow{from{transform:scaleY(0)}}
+.draw{stroke-dasharray:4000;stroke-dashoffset:4000;animation:draw 2.4s ease forwards} @keyframes draw{to{stroke-dashoffset:0}}
+.fade{animation:fade .8s ease both} @keyframes fade{from{opacity:0}}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#13122a"/><stop offset="1" stop-color="#0b0b16"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f0a540"/><stop offset="1" stop-color="#d6596f"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f0a540" stop-opacity=".35"/><stop offset="1" stop-color="#f0a540" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1199" height="451" rx="18" fill="url(#bg)" stroke="#2a2540"/>
+<g class="f"><text x="28" y="42" fill="#f6f4fb" font-size="19" font-weight="800">Recent commits</text>
+<text x="1172" y="42" fill="#8f89a8" font-size="13" text-anchor="end">latest work across public repositories</text></g>
+<g class="f fade" style="animation-delay:0s">
+<rect x="20" y="72" width="1160" height="40" rx="10" fill="#15132a"/>
+<circle cx="42" cy="92" r="5" fill="#f0a540"/>
+<rect x="58" y="81" width="105.4" height="22" rx="11" fill="#f0a540" fill-opacity=".12" stroke="#f0a540" stroke-opacity=".4"/>
+<text x="110.7" y="96.5" fill="#f0a540" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="97" fill="#eceaf3" font-size="14.5">Merge pull request #24 from fcopensource/flightcoders-business</text>
+<text x="1050" y="97" fill="#6b6585" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">5c2dbc5</text>
+<text x="1162" y="97" fill="#8f89a8" font-size="12.5" text-anchor="end">Nov 14, 2026</text></g><g class="f fade" style="animation-delay:0.08s">
+<rect x="20" y="118" width="1160" height="40" rx="10" fill="#11101f"/>
+<circle cx="42" cy="138" r="5" fill="#f0a540"/>
+<rect x="58" y="127" width="105.4" height="22" rx="11" fill="#f0a540" fill-opacity=".12" stroke="#f0a540" stroke-opacity=".4"/>
+<text x="110.7" y="142.5" fill="#f0a540" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="143" fill="#eceaf3" font-size="14.5">FlightCoders page: "For businesses" and product-family sections, set …</text>
+<text x="1050" y="143" fill="#6b6585" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">96db1d6</text>
+<text x="1162" y="143" fill="#8f89a8" font-size="12.5" text-anchor="end">Nov 14, 2026</text></g><g class="f fade" style="animation-delay:0.16s">
+<rect x="20" y="164" width="1160" height="40" rx="10" fill="#15132a"/>
+<circle cx="42" cy="184" r="5" fill="#f0a540"/>
+<rect x="58" y="173" width="105.4" height="22" rx="11" fill="#f0a540" fill-opacity=".12" stroke="#f0a540" stroke-opacity=".4"/>
+<text x="110.7" y="188.5" fill="#f0a540" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="189" fill="#eceaf3" font-size="14.5">Merge pull request #23 from fcopensource/flightcoders-brand</text>
+<text x="1050" y="189" fill="#6b6585" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">3e78576</text>
+<text x="1162" y="189" fill="#8f89a8" font-size="12.5" text-anchor="end">Nov 14, 2026</text></g><g class="f fade" style="animation-delay:0.24s">
+<rect x="20" y="210" width="1160" height="40" rx="10" fill="#11101f"/>
+<circle cx="42" cy="230" r="5" fill="#f0a540"/>
+<rect x="58" y="219" width="105.4" height="22" rx="11" fill="#f0a540" fill-opacity=".12" stroke="#f0a540" stroke-opacity=".4"/>
+<text x="110.7" y="234.5" fill="#f0a540" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="235" fill="#eceaf3" font-size="14.5">Website: the FlightCoders brand on /flightcoders and the home band</text>
+<text x="1050" y="235" fill="#6b6585" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">ab38bc2</text>
+<text x="1162" y="235" fill="#8f89a8" font-size="12.5" text-anchor="end">Nov 14, 2026</text></g><g class="f fade" style="animation-delay:0.32s">
+<rect x="20" y="256" width="1160" height="40" rx="10" fill="#15132a"/>
+<circle cx="42" cy="276" r="5" fill="#f0a540"/>
+<rect x="58" y="265" width="105.4" height="22" rx="11" fill="#f0a540" fill-opacity=".12" stroke="#f0a540" stroke-opacity=".4"/>
+<text x="110.7" y="280.5" fill="#f0a540" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="281" fill="#eceaf3" font-size="14.5">Merge pull request #22 from fcopensource/readme-refresh</text>
+<text x="1050" y="281" fill="#6b6585" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">d7fddc0</text>
+<text x="1162" y="281" fill="#8f89a8" font-size="12.5" text-anchor="end">Nov 14, 2026</text></g><g class="f fade" style="animation-delay:0.4s">
+<rect x="20" y="302" width="1160" height="40" rx="10" fill="#11101f"/>
+<circle cx="42" cy="322" r="5" fill="#f0a540"/>
+<rect x="58" y="311" width="105.4" height="22" rx="11" fill="#f0a540" fill-opacity=".12" stroke="#f0a540" stroke-opacity=".4"/>
+<text x="110.7" y="326.5" fill="#f0a540" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="327" fill="#eceaf3" font-size="14.5">README for 0.11 with fresh screenshots; fix Error Lens and Search Eve…</text>
+<text x="1050" y="327" fill="#6b6585" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">2b162f3</text>
+<text x="1162" y="327" fill="#8f89a8" font-size="12.5" text-anchor="end">Nov 14, 2026</text></g><g class="f fade" style="animation-delay:0.48s">
+<rect x="20" y="348" width="1160" height="40" rx="10" fill="#15132a"/>
+<circle cx="42" cy="368" r="5" fill="#f0a540"/>
+<rect x="58" y="357" width="105.4" height="22" rx="11" fill="#f0a540" fill-opacity=".12" stroke="#f0a540" stroke-opacity=".4"/>
+<text x="110.7" y="372.5" fill="#f0a540" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="373" fill="#eceaf3" font-size="14.5">Merge pull request #21 from fcopensource/website-all-installs</text>
+<text x="1050" y="373" fill="#6b6585" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">7ad3728</text>
+<text x="1162" y="373" fill="#8f89a8" font-size="12.5" text-anchor="end">Nov 14, 2026</text></g><g class="f fade" style="animation-delay:0.56s">
+<rect x="20" y="394" width="1160" height="40" rx="10" fill="#11101f"/>
+<circle cx="42" cy="414" r="5" fill="#f0a540"/>
+<rect x="58" y="403" width="105.4" height="22" rx="11" fill="#f0a540" fill-opacity=".12" stroke="#f0a540" stroke-opacity=".4"/>
+<text x="110.7" y="418.5" fill="#f0a540" font-size="12.5" font-weight="700" text-anchor="middle">veyraeditor</text>
+<text x="179.4" y="419" fill="#eceaf3" font-size="14.5">Merge pull request #20 from fcopensource/growth-openvsx</text>
+<text x="1050" y="419" fill="#6b6585" font-size="12.5" font-family="Consolas, monospace" text-anchor="end">0fd9a09</text>
+<text x="1162" y="419" fill="#8f89a8" font-size="12.5" text-anchor="end">Nov 14, 2026</text></g>
+</svg>
