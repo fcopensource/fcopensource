@@ -9,13 +9,15 @@
   .scan{animation:scan 5s linear infinite} @keyframes scan{from{transform:translateX(-300px)}to{transform:translateX(1300px)}}
 </style>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07140f"/><stop offset="1" stop-color="#030a07"/></linearGradient>
-  <radialGradient id="g1"><stop stop-color="#20d39a" stop-opacity=".22"/><stop offset="1" stop-color="#20d39a" stop-opacity="0"/></radialGradient>
-  <radialGradient id="g2"><stop stop-color="#1e7bd6" stop-opacity=".14"/><stop offset="1" stop-color="#1e7bd6" stop-opacity="0"/></radialGradient>
-  <linearGradient id="title" x1="0" x2="1"><stop stop-color="#3ef0b1"/><stop offset="1" stop-color="#18b884"/></linearGradient>
-  <linearGradient id="win" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0f2119"/><stop offset="1" stop-color="#0a1712"/></linearGradient>
-  <linearGradient id="sheen" x1="0" x2="1"><stop stop-color="#3ef0b1" stop-opacity="0"/><stop offset=".5" stop-color="#3ef0b1" stop-opacity=".5"/><stop offset="1" stop-color="#3ef0b1" stop-opacity="0"/></linearGradient>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#9ff0cf" stroke-opacity=".045"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0c1a"/><stop offset="1" stop-color="#07070f"/></linearGradient>
+  <radialGradient id="g1"><stop stop-color="#ec5f74" stop-opacity=".22"/><stop offset="1" stop-color="#ec5f74" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2"><stop stop-color="#9558ec" stop-opacity=".14"/><stop offset="1" stop-color="#9558ec" stop-opacity="0"/></radialGradient>
+  <linearGradient id="title" x1="0" x2="1"><stop stop-color="#f0a540"/><stop offset=".5" stop-color="#ec5f74"/><stop offset="1" stop-color="#9558ec"/></linearGradient>
+  <linearGradient id="mf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb02e"/><stop offset=".48" stop-color="#ff4f6d"/><stop offset="1" stop-color="#9b3dff"/></linearGradient>
+  <linearGradient id="ms" x1="236" y1="378" x2="292" y2="138" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#9b3dff"/><stop offset=".55" stop-color="#ff4f6d"/><stop offset="1" stop-color="#ffb02e"/></linearGradient>
+  <linearGradient id="win" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#15132a"/><stop offset="1" stop-color="#0e0d1c"/></linearGradient>
+  <linearGradient id="sheen" x1="0" x2="1"><stop stop-color="#f0a540" stop-opacity="0"/><stop offset=".5" stop-color="#f0a540" stop-opacity=".5"/><stop offset="1" stop-color="#f0a540" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#c9b8f0" stroke-opacity=".045"/></pattern>
   <clipPath id="clip"><rect width="1200" height="400" rx="24"/></clipPath>
 </defs>
 <g clip-path="url(#clip)">
@@ -25,32 +27,32 @@
   <ellipse cx="120" cy="420" rx="360" ry="200" fill="url(#g2)"/>
   <rect class="scan" x="0" y="398" width="260" height="2" fill="url(#sheen)"/>
 </g>
-<rect x=".5" y=".5" width="1199" height="399" rx="24" fill="none" stroke="#1d3a2e"/>
+<rect x=".5" y=".5" width="1199" height="399" rx="24" fill="none" stroke="#2a2540"/>
 
 <g class="f">
-  <rect x="60" y="58" width="8" height="8" rx="4" fill="#3ef0b1"/>
-  <text x="78" y="66" fill="#8fdcbd" font-size="12.5" font-weight="700" letter-spacing="2.6">FLIGHTCODERS · SOFTWARE ENGINEERING COMPANY</text>
-  <text x="58" y="148" fill="#f2fbf6" font-size="52" font-weight="800" letter-spacing="-1.6">We build software</text>
+  <g transform="translate(58 46) scale(.0547)"><rect x="16" y="16" width="480" height="480" rx="112" fill="url(#mf)"/><rect x="48" y="48" width="416" height="416" rx="84" fill="#0b0c16"/><g transform="translate(-22 -10)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="44"><path d="M152 356 V214 Q152 160 206 160 H214" stroke="#fff"/><path d="M120 238 H204" stroke="#fff"/><path d="M236 378 L292 138" stroke="url(#ms)"/><path d="M436 236 A68 68 0 1 0 436 340" stroke="#fff"/></g></g>
+  <text x="96" y="66" fill="#f6c27a" font-size="12.5" font-weight="700" letter-spacing="2.6">FLIGHTCODERS · SOFTWARE ENGINEERING COMPANY</text>
+  <text x="58" y="148" fill="#f6f4fb" font-size="52" font-weight="800" letter-spacing="-1.6">We build software</text>
   <text x="58" y="210" fill="url(#title)" font-size="52" font-weight="800" letter-spacing="-1.6">businesses run on.</text>
-  <text x="60" y="256" fill="#9fb8ad" font-size="18">Custom software · AI systems · Desktop apps · Developer tools</text>
+  <text x="60" y="256" fill="#a8a3bd" font-size="18">Custom software · AI systems · Desktop apps · Developer tools</text>
   
-  <g transform="translate(60 292)"><rect width="207" height="34" rx="17" fill="#0e2219" stroke="#22493a"/>
-    <circle cx="18" cy="17" r="4" fill="#3ef0b1"/><text x="30" y="22" fill="#cdeee0" font-size="13" font-weight="600">Microsoft Store publisher</text></g>
-  <g transform="translate(279 292)"><rect width="233.39999999999998" height="34" rx="17" fill="#0e2219" stroke="#22493a"/>
-    <circle cx="18" cy="17" r="4" fill="#3ef0b1"/><text x="30" y="22" fill="#cdeee0" font-size="13" font-weight="600">VS Code Marketplace publisher</text></g>
-  <g transform="translate(524.4 292)"><rect width="180.6" height="34" rx="17" fill="#0e2219" stroke="#22493a"/>
-    <circle cx="18" cy="17" r="4" fill="#3ef0b1"/><text x="30" y="22" fill="#cdeee0" font-size="13" font-weight="600">Open source on GitHub</text></g>
+  <g transform="translate(60 292)"><rect width="207" height="34" rx="17" fill="#17142c" stroke="#33294d"/>
+    <circle cx="18" cy="17" r="4" fill="#f0a540"/><text x="30" y="22" fill="#dcd6ec" font-size="13" font-weight="600">Microsoft Store publisher</text></g>
+  <g transform="translate(279 292)"><rect width="233.39999999999998" height="34" rx="17" fill="#17142c" stroke="#33294d"/>
+    <circle cx="18" cy="17" r="4" fill="#f0a540"/><text x="30" y="22" fill="#dcd6ec" font-size="13" font-weight="600">VS Code Marketplace publisher</text></g>
+  <g transform="translate(524.4 292)"><rect width="180.6" height="34" rx="17" fill="#17142c" stroke="#33294d"/>
+    <circle cx="18" cy="17" r="4" fill="#f0a540"/><text x="30" y="22" fill="#dcd6ec" font-size="13" font-weight="600">Open source on GitHub</text></g>
 </g>
 
 <g class="float">
-  <rect x="716" y="70" width="430" height="262" rx="16" fill="url(#win)" stroke="#24473a"/>
-  <rect x="716" y="70" width="430" height="38" rx="16" fill="#122a20"/><rect x="716" y="92" width="430" height="16" fill="#122a20"/>
+  <rect x="716" y="70" width="430" height="262" rx="16" fill="url(#win)" stroke="#33294d"/>
+  <rect x="716" y="70" width="430" height="38" rx="16" fill="#1a1733"/><rect x="716" y="92" width="430" height="16" fill="#1a1733"/>
   <circle cx="740" cy="89" r="6" fill="#ff5f57"/><circle cx="760" cy="89" r="6" fill="#febc2e"/><circle cx="780" cy="89" r="6" fill="#28c840"/>
-  <text x="931" y="94" class="f" fill="#7fa596" font-size="12.5" text-anchor="middle">flightcoders — ship</text>
+  <text x="931" y="94" class="f" fill="#8f89a8" font-size="12.5" text-anchor="middle">flightcoders — ship</text>
   <g class="m" font-size="14.5">
-    <text x="740" y="140" fill="#7fa596">$ <tspan fill="#e6f5ee">flightcoders ship --all</tspan></text>
-    <g class="ln" style="animation-delay:0.6s"><text x="740" y="176" fill="#3ef0b1">✓ <tspan fill="#e6f5ee">Veyra Studio</tspan></text><text x="1124" y="176" fill="#6f9a89" text-anchor="end">Microsoft Store</text></g><g class="ln" style="animation-delay:1.2999999999999998s"><text x="740" y="206" fill="#3ef0b1">✓ <tspan fill="#e6f5ee">Veyra PDF</tspan></text><text x="1124" y="206" fill="#6f9a89" text-anchor="end">Microsoft Store</text></g><g class="ln" style="animation-delay:2s"><text x="740" y="236" fill="#3ef0b1">✓ <tspan fill="#e6f5ee">Salesforce Studio</tspan></text><text x="1124" y="236" fill="#6f9a89" text-anchor="end">Chrome · Edge · Firefox</text></g><g class="ln" style="animation-delay:2.6999999999999997s"><text x="740" y="266" fill="#3ef0b1">✓ <tspan fill="#e6f5ee">BaazCyber Antivirus</tspan></text><text x="1124" y="266" fill="#6f9a89" text-anchor="end">Windows</text></g><g class="ln" style="animation-delay:3.4s"><text x="740" y="296" fill="#3ef0b1">✓ <tspan fill="#e6f5ee">Veyra extensions</tspan></text><text x="1124" y="296" fill="#6f9a89" text-anchor="end">VS Code Marketplace</text></g>
-    <rect class="cur" x="740" y="318" width="9" height="3" fill="#3ef0b1"/>
+    <text x="740" y="140" fill="#8f89a8">$ <tspan fill="#eceaf3">flightcoders ship --all</tspan></text>
+    <g class="ln" style="animation-delay:0.6s"><text x="740" y="176" fill="#f0a540">✓ <tspan fill="#eceaf3">Veyra Studio</tspan></text><text x="1124" y="176" fill="#7f7899" text-anchor="end">Microsoft Store</text></g><g class="ln" style="animation-delay:1.2999999999999998s"><text x="740" y="206" fill="#f0a540">✓ <tspan fill="#eceaf3">Veyra PDF</tspan></text><text x="1124" y="206" fill="#7f7899" text-anchor="end">Microsoft Store</text></g><g class="ln" style="animation-delay:2s"><text x="740" y="236" fill="#f0a540">✓ <tspan fill="#eceaf3">Salesforce Studio</tspan></text><text x="1124" y="236" fill="#7f7899" text-anchor="end">Chrome · Edge · Firefox</text></g><g class="ln" style="animation-delay:2.6999999999999997s"><text x="740" y="266" fill="#f0a540">✓ <tspan fill="#eceaf3">BaazCyber Antivirus</tspan></text><text x="1124" y="266" fill="#7f7899" text-anchor="end">Windows</text></g><g class="ln" style="animation-delay:3.4s"><text x="740" y="296" fill="#f0a540">✓ <tspan fill="#eceaf3">Veyra extensions</tspan></text><text x="1124" y="296" fill="#7f7899" text-anchor="end">VS Code Marketplace</text></g>
+    <rect class="cur" x="740" y="318" width="9" height="3" fill="#f0a540"/>
   </g>
 </g>
 </svg>

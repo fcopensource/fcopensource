@@ -4,10 +4,10 @@
 
 <br />
 
-<a href="https://flightcoders.com"><img src="https://img.shields.io/badge/flightcoders.com-0b8a5f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://flightcoders.com/hire-us"><img src="https://img.shields.io/badge/Start_a_project-3ef0b1?style=for-the-badge&logo=rocket&logoColor=04140d" alt="Start a project" /></a>
-<a href="mailto:hire@flightcoders.com"><img src="https://img.shields.io/badge/hire@flightcoders.com-0f2119?style=for-the-badge&logo=gmail&logoColor=3ef0b1" alt="Email hire@flightcoders.com" /></a>
-<a href="https://flightcoders.com/projects"><img src="https://img.shields.io/badge/Our_work-0f2119?style=for-the-badge&logo=bookstack&logoColor=3ef0b1" alt="Our work" /></a>
+<a href="https://flightcoders.com"><img src="https://img.shields.io/badge/flightcoders.com-d6596f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://flightcoders.com/hire-us"><img src="https://img.shields.io/badge/Start_a_project-f0a540?style=for-the-badge&logo=rocket&logoColor=0b0c16" alt="Start a project" /></a>
+<a href="mailto:hire@flightcoders.com"><img src="https://img.shields.io/badge/hire@flightcoders.com-15132a?style=for-the-badge&logo=gmail&logoColor=f0a540" alt="Email hire@flightcoders.com" /></a>
+<a href="https://flightcoders.com/projects"><img src="https://img.shields.io/badge/Our_work-15132a?style=for-the-badge&logo=bookstack&logoColor=f0a540" alt="Our work" /></a>
 
 </div>
 
@@ -82,18 +82,18 @@ Timelines, payment milestones, ownership and ongoing support are agreed in the p
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-0f2119?style=for-the-badge&logo=rust&logoColor=dea584)
-![Tauri](https://img.shields.io/badge/Tauri-0f2119?style=for-the-badge&logo=tauri&logoColor=24c8db)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f2119?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![React](https://img.shields.io/badge/React-0f2119?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0f2119?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f2119?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
-![Python](https://img.shields.io/badge/Python-0f2119?style=for-the-badge&logo=python&logoColor=3776ab)
-![Kotlin](https://img.shields.io/badge/Kotlin-0f2119?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
-![Swift](https://img.shields.io/badge/Swift-0f2119?style=for-the-badge&logo=swift&logoColor=f05138)
-![Salesforce](https://img.shields.io/badge/Salesforce-0f2119?style=for-the-badge&logo=salesforce&logoColor=00a1e0)
-![Docker](https://img.shields.io/badge/Docker-0f2119?style=for-the-badge&logo=docker&logoColor=2496ed)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f2119?style=for-the-badge&logo=githubactions&logoColor=2088ff)
+![Rust](https://img.shields.io/badge/Rust-15132a?style=for-the-badge&logo=rust&logoColor=dea584)
+![Tauri](https://img.shields.io/badge/Tauri-15132a?style=for-the-badge&logo=tauri&logoColor=24c8db)
+![TypeScript](https://img.shields.io/badge/TypeScript-15132a?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![React](https://img.shields.io/badge/React-15132a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-15132a?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-15132a?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
+![Python](https://img.shields.io/badge/Python-15132a?style=for-the-badge&logo=python&logoColor=3776ab)
+![Kotlin](https://img.shields.io/badge/Kotlin-15132a?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
+![Swift](https://img.shields.io/badge/Swift-15132a?style=for-the-badge&logo=swift&logoColor=f05138)
+![Salesforce](https://img.shields.io/badge/Salesforce-15132a?style=for-the-badge&logo=salesforce&logoColor=00a1e0)
+![Docker](https://img.shields.io/badge/Docker-15132a?style=for-the-badge&logo=docker&logoColor=2496ed)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-15132a?style=for-the-badge&logo=githubactions&logoColor=2088ff)
 
 </div>
 

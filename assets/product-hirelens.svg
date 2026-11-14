@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="HireLens: AI interviewer with resume-aware conversations and vision coaching.">
 <style>.f{font-family:-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif} .sh{animation:sh 6s ease-in-out infinite} @keyframes sh{0%,60%{transform:translateX(-200px)}100%{transform:translateX(800px)}}</style>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1c15"/><stop offset="1" stop-color="#07110d"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#13122a"/><stop offset="1" stop-color="#0b0b16"/></linearGradient>
   <linearGradient id="ic" x1="0" y1="0" x2=".5" y2="1"><stop stop-color="#7ff5e1"/><stop offset="1" stop-color="#0f9488"/></linearGradient>
   <radialGradient id="glow"><stop stop-color="#0f9488" stop-opacity=".22"/><stop offset="1" stop-color="#0f9488" stop-opacity="0"/></radialGradient>
   <linearGradient id="line" x1="0" x2="1"><stop stop-color="#7ff5e1" stop-opacity="0"/><stop offset=".5" stop-color="#7ff5e1" stop-opacity=".7"/><stop offset="1" stop-color="#7ff5e1" stop-opacity="0"/></linearGradient>
@@ -12,7 +12,7 @@
   <ellipse cx="70" cy="60" rx="170" ry="130" fill="url(#glow)"/>
   <rect class="sh" x="0" y="0" width="180" height="2" fill="url(#line)"/>
 </g>
-<rect x=".5" y=".5" width="599" height="209" rx="18" fill="none" stroke="#1f3a2e"/>
+<rect x=".5" y=".5" width="599" height="209" rx="18" fill="none" stroke="#2a2540"/>
 <g transform="translate(30 30)">
   <rect y="6" width="76" height="76" rx="20" fill="#0f9488" opacity=".55"/>
   <rect width="76" height="76" rx="20" fill="url(#ic)"/>
@@ -20,10 +20,10 @@
   <g transform="translate(20 19) scale(1.5)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="3"/></g>
 </g>
 <g class="f">
-  <text x="128" y="62" fill="#f2fbf6" font-size="25" font-weight="800" letter-spacing="-.4">HireLens</text>
-  <text x="128" y="96" fill="#9fb8ad" font-size="15.5">AI interviewer with resume-aware conversations and</text><text x="128" y="119" fill="#9fb8ad" font-size="15.5">vision coaching.</text>
+  <text x="128" y="62" fill="#f6f4fb" font-size="25" font-weight="800" letter-spacing="-.4">HireLens</text>
+  <text x="128" y="96" fill="#a8a3bd" font-size="15.5">AI interviewer with resume-aware conversations and</text><text x="128" y="119" fill="#a8a3bd" font-size="15.5">vision coaching.</text>
   <g transform="translate(533.8 26)"><rect width="40.2" height="26" rx="13" fill="#0f9488" fill-opacity=".16" stroke="#7ff5e1" stroke-opacity=".45"/>
     <text x="20.1" y="17.5" text-anchor="middle" fill="#7ff5e1" font-size="12" font-weight="700">AI</text></g>
-  <g transform="translate(128 160)"><rect width="44.9" height="28" rx="8" fill="#0f2119" stroke="#21402f"/><text x="22.45" y="18.5" text-anchor="middle" fill="#9fc4b4" font-size="12.5" font-weight="600">Web</text></g><g transform="translate(180.9 160)"><rect width="152" height="28" rx="8" fill="#0f2119" stroke="#21402f"/><text x="76" y="18.5" text-anchor="middle" fill="#9fc4b4" font-size="12.5" font-weight="600">AI · Computer vision</text></g>
+  <g transform="translate(128 160)"><rect width="44.9" height="28" rx="8" fill="#15132a" stroke="#33294d"/><text x="22.45" y="18.5" text-anchor="middle" fill="#b3a9cc" font-size="12.5" font-weight="600">Web</text></g><g transform="translate(180.9 160)"><rect width="152" height="28" rx="8" fill="#15132a" stroke="#33294d"/><text x="76" y="18.5" text-anchor="middle" fill="#b3a9cc" font-size="12.5" font-weight="600">AI · Computer vision</text></g>
 </g>
 </svg>
